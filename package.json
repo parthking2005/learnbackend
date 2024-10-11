@@ -1,0 +1,19 @@
+{
+  "name": "second_video",
+  "version": "1.0.0",
+  "description": "deploy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "parth"
+  ],
+  "author": "parth kathrotiya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
